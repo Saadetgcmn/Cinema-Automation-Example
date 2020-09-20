@@ -1,0 +1,28 @@
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\bin\Debug\SİNEMA BİLETİ SATIŞ.exe.config
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\bin\Debug\SİNEMA BİLETİ SATIŞ.exe
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\bin\Debug\SİNEMA BİLETİ SATIŞ.pdb
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA BİLETİ SATIŞ.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.Properties.Resources.resources
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA BİLETİ SATIŞ.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA BİLETİ SATIŞ.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA BİLETİ SATIŞ.exe
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA BİLETİ SATIŞ.pdb
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.giris_form.resources
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.grsyenifilmekle.resources
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.yenifilmekle.resources
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.filmsec.resources
+C:\Users\ASUS\Desktop\SİNEMA BİLETİ SATIŞ\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.Rezervasyon.resources
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\bin\Debug\SİNEMA BİLETİ SATIŞ.exe.config
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\bin\Debug\SİNEMA BİLETİ SATIŞ.exe
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\bin\Debug\SİNEMA BİLETİ SATIŞ.pdb
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA BİLETİ SATIŞ.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.filmsec.resources
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.Rezervasyon.resources
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.giris_form.resources
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.grsyenifilmekle.resources
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.Properties.Resources.resources
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA_BİLETİ_SATIŞ.yenifilmekle.resources
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA BİLETİ SATIŞ.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA BİLETİ SATIŞ.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA BİLETİ SATIŞ.exe
+C:\Users\ASUS\Desktop\saadet göçmen 17-155-814 sinema bileti otomasyonu\SİNEMA BİLETİ SATIŞ\obj\Debug\SİNEMA BİLETİ SATIŞ.pdb
